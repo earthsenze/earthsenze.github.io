@@ -19,6 +19,8 @@
 ![][logo]
 ## Consumer Power for Sustainability
 
+(c) Torsten Ek, 2014 
+ 
 # We all care
 ![][earth]
 Most people look at the world around them and see things they really would like to change. We care about how our society is organised, we care about the well-being of our friends and family and we care about future of the planet at large. When we see things that threaten the things we care about we want to do something about it.
