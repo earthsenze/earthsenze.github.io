@@ -1,4 +1,8 @@
-[connect]:http://earthsenze.com/conceptvid/connect.jpg
+# Concept Video Script Ideas
+
+The basic format is a white board video with a hidden narrator. The art should be very simple but very high quality which necessitates a time lapse recording. 
+
+Sound track should be discrete, light and clever. (think 
 
 # We all care
 
@@ -16,6 +20,7 @@
 
 ## Narration
 
+"Reasonable people can, and do, disagree on which areas are the most important to focus on from a sustainability standpoint. In many of these areas, reasonable people can, and do, disagree about the strategies and measures required to address the challenges."
 
 # Making the connection
 
