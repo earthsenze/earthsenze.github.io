@@ -2,7 +2,7 @@
 
 The basic format is a white board video with a hidden narrator. The art should be very simple but very high quality which necessitates a time lapse recording. 
 
-Sound track should be discrete, light and clever. (think 
+Sound track should be discrete, light and clever. (think Dave Grusin "Mountain Dance")
 
 # We all care
 
