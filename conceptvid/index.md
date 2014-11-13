@@ -30,3 +30,6 @@ Sound track should be discrete, light and clever. (think Dave Grusin "Mountain D
 ## Narration
 
 The problem is connecting our possible product choices with the parameters that we care about. To exercise our consumer power we need to make this connection quickly and conveniently. 
+
+
+# **Work In Progress**......
