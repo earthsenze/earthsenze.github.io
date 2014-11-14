@@ -22,6 +22,13 @@ Sound track should be discrete, light and clever. (think Dave Grusin "Mountain D
 
 "Reasonable people can, and do, disagree on which areas are the most important to focus on from a sustainability standpoint. In many of these areas, reasonable people can, and do, disagree about the strategies and measures required to address the challenges."
 
+# Globalization
+
+## Visual
+
+![](http://earthsenze.com/conceptvid/globalizaion.png)
+
+
 # Making the connection
 
 ## Visual
