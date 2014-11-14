@@ -28,6 +28,9 @@ Sound track should be discrete, light and clever. (think Dave Grusin "Mountain D
 
 ![](http://earthsenze.com/conceptvid/globalizaion.png)
 
+## Narration
+
+"The problem of affecting change through policy is compounded by economic globalization. When policy measures that trades sustainability for profitability are implemented locally, economic activity and the flow of capital is immediately redirected to circumvent the measures."
 
 # Making the connection
 
