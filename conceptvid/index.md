@@ -4,6 +4,11 @@ The basic format is a white board video with a hidden narrator. The art should b
 
 Sound track should be discrete, light and clever. (think Dave Grusin "Mountain Dance")
 
+# Earthsen.se
+
+The App that finds the products, brands and businesses that meet YOUR sustainability standards
+The Community that allows us to build the knowledge that makes the App possible
+
 # We all care
 
 ![earth](http://earthsenze.com/conceptvid/we-all-care.png)
@@ -22,11 +27,12 @@ Sound track should be discrete, light and clever. (think Dave Grusin "Mountain D
 
 "The problem of affecting change through policy is compounded by economic globalization. When policy measures that trades sustainability for profitability are implemented locally, economic activity and the flow of capital is immediately redirected to circumvent the measures."
 
+
 # Making the connection
 
 ![](http://earthsenze.com/conceptvid/connect.png)
 
-The problem is connecting our possible product choices with the parameters that we care about. To exercise our consumer power we need to make this connection quickly and conveniently. 
+*"The problem is connecting our possible product choices with the parameters that we care about. To exercise our consumer power we need to make this connection quickly and conveniently. "*
 
 
 # **Work In Progress**......
